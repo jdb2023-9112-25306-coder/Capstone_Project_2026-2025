@@ -1,6 +1,19 @@
-# Capstone Project 2026
+## About the Project
 
-AquaWell — Groupmate Setup Tutorial
+**AquaWell** is a comprehensive web-based management system designed for water refilling stations. It streamlines online refill requests, automates daily business operations, enables real-time delivery tracking, and utilizes demand forecasting to optimize inventory management.
+
+---
+
+### Key Objectives & Core Features
+
+* **Customer Request Management:** Web portal for placing water refill requests, selecting pickup/delivery preferences, and managing orders.
+* **Delivery Tracking Module:** Real-time order progress tracking for customers, with driver assignment and live status updates for administrators.
+* **Inventory Management:** Live water and container stock monitoring with automated low-stock alerts.
+* **Sales & Automated Reporting:** Financial transaction logging, payment tracking, and automated generation of operational summaries.
+* **Demand Forecasting & Trend Analysis:** Uses the **Weighted Moving Average (WMA)** method to predict future container demand and analyze sales trends.
+* **HR & Role Management:** Staff record management with role-based access control (Admin, Staff, Delivery Personnel).
+* **ISO/IEC 25010 Software Evaluation:** System quality validated through User Acceptance Testing (UAT) and System Usability Scale (SUS) surveys focusing on *Functional Suitability, Performance Efficiency, Usability,* and *Reliability*.
+
 
 ### IMPORTANT
 * You must be added as a collaborator to the GitHub repository before cloning it.
